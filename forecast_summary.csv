@@ -1,0 +1,4 @@
+Commodity,Ticker,LastPrice,Forecast30D,ForecastChangePct,Signal,Alert
+Corn Futures,ZC=F,483.8942,490.5806,1.38,HOLD,False
+Wheat Futures,ZW=F,614.0819,620.3345,1.02,HOLD,False
+Soybean Futures,ZS=F,1205.493,1220.8582,1.27,HOLD,False
