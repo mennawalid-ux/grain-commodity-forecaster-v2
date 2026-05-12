@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 from config import COMMODITIES, ALERT_THRESHOLD_PCT
 
 ROOT = Path(__file__).resolve().parent
-DATA_DIR = ROOT / "data"
+DATA_DIR = ROOT
 
 st.set_page_config(
     page_title="Grain Futures Price Forecaster",
